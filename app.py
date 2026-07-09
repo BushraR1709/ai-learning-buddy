@@ -3,7 +3,7 @@ import streamlit as st
 from google import genai
 
 # Create Gemini client
-client = genai.Client(api_key="AQ.Ab8RN6K3bPZOGQCL5FeW5bwTZzx7qlQ2ICWC_RbLh9JSx_jm1w")
+client = genai.Client(api_key="API_KEY")
 
 # Page configuration
 st.set_page_config(
